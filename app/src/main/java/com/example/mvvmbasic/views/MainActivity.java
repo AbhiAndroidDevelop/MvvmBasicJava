@@ -8,8 +8,11 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Toast;
 
+
+import com.example.mvvmbasic.R;
 import com.example.mvvmbasic.databinding.ActivityMainBinding;
 import com.example.mvvmbasic.viewmodels.LoginViewModel;
+
 
 public class MainActivity extends AppCompatActivity {
 
